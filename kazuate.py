@@ -1,4 +1,3 @@
-print("Hello, Python!")
 import random
 
 def guess_number():
